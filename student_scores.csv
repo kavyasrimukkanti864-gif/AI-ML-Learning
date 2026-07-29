@@ -1,11 +1,12 @@
 Student_ID,Name,Math,Science,English
 101,Aarav,85,90,88
-102,Diya,78,82,80
+102,Diya,78,82,
 103,Rohan,92,89,94
 104,Ananya,88,91,86
 105,Vivaan,76,79,81
 106,Ishita,95,93,97
 107,Arjun,84,87,85
 108,Saanvi,90,88,92
-109,Krishna,73,75,78
+109,Krishna,,75,78
+110,Meera,89,90,91
 110,Meera,89,90,91
